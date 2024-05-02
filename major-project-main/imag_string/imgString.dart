@@ -1,4 +1,4 @@
-const String jSplash1 = "assets/images/jewelery/logo/splash1.png";
+const String jSplash1 = "assets/images/jewelery/logo/splash1.png   ";
 
 const String mstarting = "assets/images/jewelery/logo/starting.png";
 const String msignup = "assets/images/jewelery/signup.jpeg";
